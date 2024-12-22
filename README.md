@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Mohd Kaif</h1>
 <h3 align="center">"Aspiring Full-Stack Developer | Competitive Programmer | Building Scalable and Efficient Web Applications with MERN Stack Expertise"</h3>
 
